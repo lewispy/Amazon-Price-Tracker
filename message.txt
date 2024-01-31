@@ -1,0 +1,7 @@
+New low price alert!
+
+ASUS Zenbook S 13 OLED Ultra Laptop with 32G RAM and 1TBSSD available for purchase at ${price}.
+
+Hurry now to link below to make your purchase!
+
+{link}
